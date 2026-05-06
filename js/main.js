@@ -32,10 +32,10 @@ function setSeason(season) {
     clothing.src = "images/winter-wear.jpg";
   }
 
-  else {
-    style.href = "css/default.css";
-    text.textContent = "Welcome to Eddie Browser!";
-    logo.src = "images/four-seasons.gif";
-    clothing.src = "images/300x400.png";
-  }
+else {
+  style.href = "css/default.css";
+  text.textContent = "Welcome to Eddie Browser!";
+  logo.src = "https://i.pinimg.com/originals/79/63/fd/7963fd68329cfc8704725e2a26f7cf09.gif";
+  clothing.src = "https://www.collegefashionista.com/wp-content/uploads/2018/07/affordable-clothing-stores.jpg?resize=1080%2C600";
+}
 }
